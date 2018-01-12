@@ -1,0 +1,27 @@
+body {
+	
+    background-color: #d9534f;
+    margin-top: 20px;
+}
+
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 300px;
+	height: auto;
+}
+
+ .jumbotron {
+    background-color: #ffffff;
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+} 
+
+/* p, button {
+    text-align: center;
+    
+} */
