@@ -1,4 +1,5 @@
-body {
+
+.main-container {
 	
     background-color: #d9534f;
     margin-top: 20px;
@@ -12,16 +13,7 @@ img {
 	height: auto;
 }
 
- .jumbotron {
-    background-color: #ffffff;
-}
-
 h1 {
     text-align: center;
-    margin: auto;
-} 
-
-/* p, button {
-    text-align: center;
     
-} */
+}

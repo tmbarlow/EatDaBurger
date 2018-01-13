@@ -12,4 +12,4 @@ devoured BOOL DEFAULT false,
 PRIMARY KEY (id)
 );
 
-select * from burgers
+SELECT * FROM burgers
